@@ -1,0 +1,16 @@
+a=100
+b=2
+c=5
+d=7
+e=10
+f=6
+g=1
+h=1
+i=2
+j=3
+x=a+b+c+d+e+f+g+h+i+j
+print(x)
+y=a*b*c*d*e*f*g*h*i*j
+print(y)
+z=a/b/c/d/e/f/g/h/i/j
+print(z)
